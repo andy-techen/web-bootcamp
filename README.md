@@ -1,2 +1,2 @@
 # web-bootcamp
-Projects for web development bootcamp on Udemy.
+Projects for a web development boot camp on Udemy.
